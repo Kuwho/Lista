@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mega.jpg", 7 TV Murcia
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK_400x400.jpg", 7 TV Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
 #EXTINF:-1, Galicia Europa HD
@@ -8,3 +8,6 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1, Galicia América HD
 http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1, RTPa
+https://cdnlive2.shooowit.net/rtpalive/smil:directo.smil/playlist.m3u8?MHQmZu0k4ghJKNLBTgPHZkO83uqnbRx0BJIg8XZ50_wpLz2rzvQAYmdbm1yQZ_YSutU7cBSoDDhy5JYBVPnlzU62nvrCmWxORZK8UjaUaFwfcqBLh27a5MDzcPjbOL_10y9jGpJS
