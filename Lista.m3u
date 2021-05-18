@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/mega.jpg", 7 TV Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
-#EXTINF:-1, Galicia HD
+#EXTINF:-1, Galicia Europa HD
 http://europa-crtvg.flumotion.com/playlist.m3u8
 
+#EXTINF:-1, Galicia América HD
+http://america-crtvg.flumotion.com/playlist.m3u8
