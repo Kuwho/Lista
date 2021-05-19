@@ -1,9 +1,9 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK_400x400.jpg", Telemadrid
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200", Telemadrid
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200", 7 TV Murcia
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK_400x400.jpg", 7 TV Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
 
@@ -23,13 +23,3 @@ https://amodino-crtvg.flumotion.com/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://resources.nuevosiglo.com.uy/reportv/img/senales/2669.svg", PRUEBA 1
-https://live.atresmediainternacional.com/ATRESMEDIA/antena3-1080.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://resources.nuevosiglo.com.uy/reportv/img/senales/2669.svg", PRUEBA 2
-https://live.atresmediainternacional.com/ATRESMEDIA/atreseries-1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://resources.nuevosiglo.com.uy/reportv/img/senales/2669.svg", PRUEBA 3
-https://live.atresmediainternacional.com/ATRESMEDIA/a3series-1080.m3u8
