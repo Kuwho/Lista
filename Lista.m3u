@@ -6,6 +6,21 @@ https://rtvelivestream.akamaized.net/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200", La 2
 https://rtvelivestream.akamaized.net/la2_main_dvr.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png", 24h
+https://rtvelivestream.akamaized.net/24h_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200", Teledeporte
+https://rtvelivestream.akamaized.net/tdp_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK_400x400.jpg", A3 Cine
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://resources.nuevosiglo.com.uy/reportv/img/senales/2669.svg", HOLA TV
+https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/mtmad.es/picture?width=200&height=200", mtmad 24h
+https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
+
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200", TRECE
 https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 
@@ -13,24 +28,21 @@ https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playl
 https://live1-eltorotv.flumotion.com/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/mtmad.es/picture?width=200&height=200", mtmad
-https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png", 24h
-https://rtvelivestream.akamaized.net/24h_main_dvr.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ActualidadRT/picture?width=200&height=200", RT
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200", Teledeporte
-https://rtvelivestream.akamaized.net/tdp_main_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200", canal Extremadura
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200", Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/EsAsturiasTV/picture?width=200&height=200", EsAsutriasTV
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/EsAsturiasTV/picture?width=200&height=200", EsAsturias TV
 https://5df8a678a3840.streamlock.net/8032/8032/playlist.m3u8
 
 
@@ -44,11 +56,9 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK_400x400.jpg", A3 Cine
-https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://resources.nuevosiglo.com.uy/reportv/img/senales/2669.svg", HOLA TV
-https://live.atresmediainternacional.com/ATRESMEDIA/holatv-1080.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", Galicia TV
@@ -57,6 +67,27 @@ https://europa-crtvg.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", Galicia TV 2
 https://amodino-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200", ETB 1
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200", ETB 2
+https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200", EITB Basque
+https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200", TV3
+https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/324cat/picture?width=200&height=200", 324
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200", ATV Andorra
+https://videos.rtva.ad/live/rtva/playlist.m3u8
+
+
+
 
 #EXTINF:-1,Canal 26
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
