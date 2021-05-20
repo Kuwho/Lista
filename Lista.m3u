@@ -51,6 +51,12 @@ https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200", Telemadrid
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200", Canal Sur Andalucía
+https://cdnlive.shooowit.net/rtvalive/smil:83CRxkDnV6DVR.smil/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK_400x400.jpg", 7 TV Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 
@@ -75,22 +81,16 @@ https://5df8a678a3840.streamlock.net/8032/8032/playlist.m3u8
 https://europa-crtvg.flumotion.com/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200", Galicia TV 2
-https://amodino-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200", EITB Basque
+https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200", ETB 1
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200", ETB 2
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200", TV3
 https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist_DVR.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/324cat/picture?width=200&height=200", 324
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200", ATV Andorra
 https://videos.rtva.ad/live/rtva/playlist.m3u8
@@ -101,6 +101,10 @@ https://videos.rtva.ad/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png", Canal 26
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/teleSUR/picture?width=200&height=200", TeleSUR Venezuela
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200", TV Perú
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 
