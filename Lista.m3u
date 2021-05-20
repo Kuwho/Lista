@@ -102,3 +102,15 @@ https://videos.rtva.ad/live/rtva/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png", Canal 26
+https://livestartover-i.akamaized.net/antena3/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png", Canal 26
+https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png", Canal 26
+https://livestartover.atresmedia.com/lasexta/master.m3u8
+
+
