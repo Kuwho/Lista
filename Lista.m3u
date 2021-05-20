@@ -40,13 +40,9 @@ https://live1-eltorotv.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ActualidadRT/picture?width=200&height=200", RT
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg", EITB Basque
+https://play.gooru.live/playnegocios/_definst_/5646-1603313320000/master.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200", Canal Extremadura
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/EsAsturiasTV/picture?width=200&height=200", EsAsturias TV
-https://5df8a678a3840.streamlock.net/8032/8032/playlist.m3u8
 
 
 
@@ -57,6 +53,15 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/603859282858246144/g6JFDMsK_400x400.jpg", 7 TV Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/EsAsturiasTV/picture?width=200&height=200", EsAsturias TV
+https://5df8a678a3840.streamlock.net/8032/8032/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200", Canal Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+
+
 
 
 
@@ -77,8 +82,7 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200", ETB 2
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200", EITB Basque
-https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200", TV3
 https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist_DVR.m3u8
